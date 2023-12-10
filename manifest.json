@@ -1,8 +1,0 @@
-{
-    "name": "DinkysMod",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/DinkyBoi/DinkysMod",
-    "description": "Da best mod eva- unlimited sprint",
-    "dependencies": "BepInEx"
-    
-}
